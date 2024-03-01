@@ -6,7 +6,18 @@ Mathematic Laboratory (math-lab) is a comprehensive mathematical library for Jav
 
 # Features
 
-Comprehensive Mathematical Functions: Includes a wide range of mathematical operations, from basic arithmetic to advanced functions such as trigonometry, logarithms, and complex number operations.
-Efficient Implementation: Optimized for performance, ensuring that mathematical operations are executed quickly and accurately.
-User-Friendly API: Features a clean and intuitive API, designed to be easy to use.
-Versatile Applications: Suitable for a wide range of applications, including scientific computing, data analysis, and educational software.
+Comprehensive Mathematical Functions: 
+
+Includes a wide range of mathematical operations, from basic arithmetic to advanced functions such as trigonometry, logarithms, and complex number operations.
+
+Efficient Implementation: 
+
+Optimized for performance, ensuring that mathematical operations are executed quickly and accurately.
+
+User-Friendly API:
+
+Features a clean and intuitive API, designed to be easy to use.
+
+Versatile Applications: 
+
+Suitable for a wide range of applications, including scientific computing, data analysis, and educational software.
